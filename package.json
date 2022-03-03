@@ -1,0 +1,19 @@
+{
+  "name": "interactive",
+  "version": "1.0.0",
+  "description": "interactive",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mznx13579/interactive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mznx13579/interactive/issues"
+  },
+  "homepage": "https://github.com/mznx13579/interactive#readme"
+}
